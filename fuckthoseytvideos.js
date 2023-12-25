@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://www.youtube.com/
 // @grant        none
-// @updateURL   https://raw.githubusercontent.com/tbessenreither/tampermonkey_userscripte/main/fuckthoseytvideos.js?token=GHSAT0AAAAAACMAMZ2EH7CYSC3MTHOBW7IQZMJRXIQ
-// @downloadURL https://raw.githubusercontent.com/tbessenreither/tampermonkey_userscripte/main/fuckthoseytvideos.js?token=GHSAT0AAAAAACMAMZ2EH7CYSC3MTHOBW7IQZMJRXIQ
+// @updateURL   https://raw.githubusercontent.com/tbessenreither/tampermonkey_userscripte/main/fuckthoseytvideos.js
+// @downloadURL https://raw.githubusercontent.com/tbessenreither/tampermonkey_userscripte/main/fuckthoseytvideos.js
 // ==/UserScript==
 
 function wait(ms) {
